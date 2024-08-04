@@ -13,3 +13,6 @@
 > * ...
 
 # I appreciate the effort and work those colleagues have done to make our future better.
+
+## Aristotle
+> Be a free thinker and don't accept everything you hear as truth. Be critical and evaluate what you believe in.
