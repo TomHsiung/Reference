@@ -12,7 +12,7 @@
 > * Statistics
 > * ...
 
-# I appreciate the effort and work those colleagues have done to make our future better.
+# I appreciate the effort and work those colleagues have done, which makes the future of human better.
 
 ## Aristotle
 > Be a free thinker and don't accept everything you hear as truth. Be critical and evaluate what you believe in.
