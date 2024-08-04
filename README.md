@@ -4,8 +4,11 @@
 > * Cardiology
 > * Criticare Care
 > * Epidemiology
+> * Infectious Disease
 > * Nephrology
 > * Neurology
+> * Psychiatry
+> * Pulmonary
 > * Statistics
 > * ...
 
